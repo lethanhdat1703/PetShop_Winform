@@ -1,0 +1,45 @@
+E:\do_an\QL_shoppet\wfshoppet\wfshoppet\bin\Debug\wfshoppet.exe.config
+E:\do_an\QL_shoppet\wfshoppet\wfshoppet\bin\Debug\wfshoppet.exe
+E:\do_an\QL_shoppet\wfshoppet\wfshoppet\bin\Debug\wfshoppet.pdb
+E:\do_an\QL_shoppet\wfshoppet\wfshoppet\obj\Debug\wfshoppet.csproj.AssemblyReference.cache
+E:\do_an\QL_shoppet\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.FormThuCung.resources
+E:\do_an\QL_shoppet\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.MenuForm.resources
+E:\do_an\QL_shoppet\wfshoppet\wfshoppet\obj\Debug\wfshoppet.Properties.Resources.resources
+E:\do_an\QL_shoppet\wfshoppet\wfshoppet\obj\Debug\wfshoppet.csproj.GenerateResource.cache
+E:\do_an\QL_shoppet\wfshoppet\wfshoppet\obj\Debug\wfshoppet.csproj.CoreCompileInputs.cache
+E:\do_an\QL_shoppet\wfshoppet\wfshoppet\obj\Debug\wfshoppet.exe
+E:\do_an\QL_shoppet\wfshoppet\wfshoppet\obj\Debug\wfshoppet.pdb
+E:\do_an\QL_shoppet\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.FormLoaiThuCung.resources
+E:\do_an\QL_shoppet\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.FormKhachHang.resources
+E:\do_an\QL_shoppet\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.FormPhieuMuaHang.resources
+E:\do_an\QL_shoppet\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.FormPhieuMuaView.resources
+C:\Users\TienHy\Desktop\QL_shoppet (1)\wfshoppet\wfshoppet\bin\Debug\wfshoppet.exe.config
+C:\Users\TienHy\Desktop\QL_shoppet (1)\wfshoppet\wfshoppet\bin\Debug\wfshoppet.exe
+C:\Users\TienHy\Desktop\QL_shoppet (1)\wfshoppet\wfshoppet\bin\Debug\wfshoppet.pdb
+C:\Users\TienHy\Desktop\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.csproj.AssemblyReference.cache
+C:\Users\TienHy\Desktop\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.FormKhachHang.resources
+C:\Users\TienHy\Desktop\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.FormLoaiThuCung.resources
+C:\Users\TienHy\Desktop\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.FormPhieuMuaHang.resources
+C:\Users\TienHy\Desktop\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.FormPhieuMuaView.resources
+C:\Users\TienHy\Desktop\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.FormThuCung.resources
+C:\Users\TienHy\Desktop\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.MenuForm.resources
+C:\Users\TienHy\Desktop\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.Properties.Resources.resources
+C:\Users\TienHy\Desktop\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.csproj.GenerateResource.cache
+C:\Users\TienHy\Desktop\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.csproj.CoreCompileInputs.cache
+C:\Users\TienHy\Desktop\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.exe
+C:\Users\TienHy\Desktop\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.pdb
+E:\do_an\QL_shoppet (1)\wfshoppet\wfshoppet\bin\Debug\wfshoppet.exe.config
+E:\do_an\QL_shoppet (1)\wfshoppet\wfshoppet\bin\Debug\wfshoppet.exe
+E:\do_an\QL_shoppet (1)\wfshoppet\wfshoppet\bin\Debug\wfshoppet.pdb
+E:\do_an\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.csproj.AssemblyReference.cache
+E:\do_an\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.FormKhachHang.resources
+E:\do_an\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.FormLoaiThuCung.resources
+E:\do_an\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.FormPhieuMuaHang.resources
+E:\do_an\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.FormPhieuMuaView.resources
+E:\do_an\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.FormThuCung.resources
+E:\do_an\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.gui.MenuForm.resources
+E:\do_an\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.Properties.Resources.resources
+E:\do_an\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.csproj.GenerateResource.cache
+E:\do_an\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.csproj.CoreCompileInputs.cache
+E:\do_an\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.exe
+E:\do_an\QL_shoppet (1)\wfshoppet\wfshoppet\obj\Debug\wfshoppet.pdb

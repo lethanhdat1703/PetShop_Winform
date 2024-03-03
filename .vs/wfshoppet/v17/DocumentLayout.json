@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\do_an\\QL_shoppet (1)\\wfshoppet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECBA59F-D687-4809-BA0A-5125B8D445BD}|wfshoppet\\wfshoppet.csproj|e:\\do_an\\ql_shoppet (1)\\wfshoppet\\wfshoppet\\gui\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ECBA59F-D687-4809-BA0A-5125B8D445BD}|wfshoppet\\wfshoppet.csproj|solutionrelative:wfshoppet\\gui\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuForm.cs [Design]",
+              "DocumentMoniker": "E:\\do_an\\QL_shoppet (1)\\wfshoppet\\wfshoppet\\gui\\MenuForm.cs",
+              "RelativeDocumentMoniker": "wfshoppet\\gui\\MenuForm.cs",
+              "ToolTip": "E:\\do_an\\QL_shoppet (1)\\wfshoppet\\wfshoppet\\gui\\MenuForm.cs [Design]",
+              "RelativeToolTip": "wfshoppet\\gui\\MenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:55:34.59Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
